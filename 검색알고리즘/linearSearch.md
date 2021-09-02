@@ -12,7 +12,7 @@
 i = 0
 while True:
     # 검색 실패
-	  if i == len(a):
+    if i == len(a):
         return -1
     # 검색 성공(찾은 원소의 인덱스는 i, 맨 처음 발견한 원소의 index만 반환)
     if a[i] == key:
