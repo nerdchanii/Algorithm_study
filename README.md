@@ -1,6 +1,6 @@
 # [Algorithm_study](https://github.com/narongchan/Algorithm_study)
 
->This repository for Keep going study Group. We study Algorithm, data Structure using python. 
+>This repository for the Keep going study Group. We study Algorithm, data Structure using python. 
 
 이 레포지토리는 ***[DO it: 자료구조와 함께 배우는 알고리즘 입문 python](https://github.com/easyIT/doit_dsalgo_with_python)*** 을 스터디하며, 정리한 저장소입니다.
 
